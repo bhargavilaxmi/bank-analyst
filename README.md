@@ -9,8 +9,7 @@ visualizations_preview/: Contains 8 high-quality screenshots of all main and dri
 02_PowerBI_Dashboards/: Power BI PBIX files (two dashboards with drill-through).
 03_Tableau_Dashboards/: Tableau TWBX files (two dashboards).
 04_SQL_Scripts/: Commented SQL files showing data preparation steps.
-ChatGPT Image Oct 6, 2025, 04_53_12 PM
-🖼️ Dashboard Previews
+
 excel image Excel: excel_bank_data_preview
 excel_bank_data_preview
 excel image Excel:Debit and Credit banking_data_Dashboard
